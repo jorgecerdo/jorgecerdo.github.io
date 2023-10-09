@@ -13,18 +13,18 @@ body{background-color: rgb(255, 255, 255);
 
 
 h1{
-   color: rgb(0, 0, 0);
-   font-family: Arial, Helvetica, sans-serif;
-   font-size: 150px;
+   color: rgb(25, 236, 21);
+   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+   font-size: 250px;
    text-align: center;
    position: relative;
    bottom: 100px;
 }
 
 p{
-   color: rgb(0, 0, 0);
-   font-family: Arial, Helvetica, sans-serif;
-   font-size: 15px;
+   color: rgb(253, 253, 253);
+   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+   font-size: 30px;
    text-align: center;
    position: relative;
    bottom: 180px;
@@ -33,8 +33,8 @@ p{
 .hiking>*{
    text-decoration: none;
    display: block;
-   color: rgb(0, 0, 0);
-   font-family: Arial, Helvetica, sans-serif;
+   color: rgb(253, 253, 253);
+   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
    font-size: 30px;
    text-align: center;
    position: relative;
@@ -44,8 +44,8 @@ p{
 .climbing>*{
    text-decoration: none;
    display: block;
-   color: rgb(0, 0, 0);
-   font-family: Arial, Helvetica, sans-serif;
+   color: rgb(253, 253, 253);
+   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
    font-size: 30px;
    text-align: center;
    position: relative;
